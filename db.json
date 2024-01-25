@@ -1,5 +1,6 @@
 {
-  "animals": [
+  "api": {
+    "animals": [
     {
       "id": 1,
       "animal_bread": "Овчарка",
@@ -21,5 +22,6 @@
   ],
   "login": {
     "token": "a-b-c"
+  }
   }
 }
